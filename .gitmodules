@@ -1,0 +1,6 @@
+[submodule "local_pr2_demo"]
+	path = local_pr2_demo
+	url = https://github.com/furushchev/local_pr2_demo.git
+[submodule "rwt_voice_message"]
+	path = rwt_voice_message
+	url = https://github.com/furushchev/rwt_voice_message.git
